@@ -1,0 +1,57 @@
+.intro {
+    width: 90%;
+    font-style: italic;
+    color: white;
+    border-color: violet;
+    font-style: bold;
+    font-size: 18px;
+    background-color: black;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+ }
+ body {
+   background-image: url('https://www.graphicpear.com/wp-content/uploads/2017/10/halloween-ghost-pattern.jpg');
+   background-repeat: repeat;
+   color: rgb(223, 149, 37);
+   font-style: bold;
+   font-size: 14px;
+ }
+ .author {
+    width: 75%;
+    font-style: italic;
+    font-weight: bold;
+ }
+ .important {
+   color: rgb(107, 31, 31);
+ }
+ 
+ .unimportant {
+   color: rgb(17, 34, 131);
+ }
+ .column {
+   width: 80%;
+   float: left;
+   background-color: rgb(185, 133, 65);
+   color: white;
+   font-style: bold;
+   font-size: 16px;
+   margin: 10px;
+   padding: 10px;
+   display: block;
+ }
+ .column-wide {
+    width: 80%;
+    float: left;
+    padding: 10px,2px,20px,60px;
+    color: white;
+    font-style: bold;
+    background-image: url(https://wallup.net/wp-content/uploads/2016/07/23/21633-Cowboy_Bebop-Edward_Wong_Hau_Pepelu_Tivrusky_IV-anime-anime_girls.jpg);
+    padding: 10px;
+    margin: 10px;
+    border: violet;
+    display: block;
+}
+.my-class {
+   border: 2px solid rgb(247, 247, 247);
+ }
