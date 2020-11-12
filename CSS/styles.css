@@ -1,75 +1,161 @@
-.h1 {
-   font-style: bold;
-   color: white;
-   font-size: 18px;
-   background-color: black;
-   justify-content: center;
-   padding: 10px;
-   margin: 10px;
-}
-.h2 {
-  font-style: italic;
-  color: white;
+body   {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
   font-size: 16px;
-  background-color: black;
-  justify-content: left;
+
+}
+
+/* styling our overall page */
+body     {
+  background: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Column Format */
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-left {
+  width: 30%;
+  height: 100vh;
+  margin: 5px;
+  padding: 5px;
+  color: rgb(233, 193, 193);
+  border: 2px solid rgb(0, 217, 255);
+  background-color: #222;
+}
+
+.flex-right {
+  width: 70%;
+  margin: 5px;
+  padding: 5px;
+  color: rgb(233, 193, 193);
+  border: 2px solid rgb(255, 0, 212);
+}
+
+h1{
+  font-style: bold;
+  color: white;
+  font-size: 18px;
+  justify-content: center;
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 10px;}
+
+h2{
+  font-style: bold;
+  color: black;
+  font-size: 18px;
+  background-image: url(https://c.wallhere.com/photos/86/9e/vaporwave_grid-1214341.jpg!d);
+  justify-content: center;
   padding: 10px;
   margin: 10px;
 }
-.intro {
-    width: 90%;
-    font-style: italic;
-    color: white;
-    border-color: violet;
-    font-style: bold;
-    font-size: 18px;
-    background-color: black;
-    box-sizing: border-box;
-    padding: 10px;
-    margin: 10px;
- }
- body {
-   background-image: url('https://www.graphicpear.com/wp-content/uploads/2017/10/halloween-ghost-pattern.jpg');
-   background-repeat: repeat;
-   color: rgb(223, 149, 37);
-   font-style: bold;
-   font-size: 14px;
- }
- .author {
-    width: 75%;
-    font-style: italic;
-    font-weight: bold;
- }
- .important {
-   color: rgb(107, 31, 31);
- }
- 
- .unimportant {
-   color: rgb(17, 34, 131);
- }
- .column {
-   width: 80%;
-   float: left;
-   background-color: rgb(185, 133, 65);
-   color: white;
-   font-style: bold;
-   font-size: 16px;
-   margin: 10px;
-   padding: 10px;
-   display: block;
- }
- .column-wide {
-    width: 80%;
-    float: left;
-    padding: 10px,2px,20px,60px;
-    color: white;
-    font-style: bold;
-    background-image: url(https://wallup.net/wp-content/uploads/2016/07/23/21633-Cowboy_Bebop-Edward_Wong_Hau_Pepelu_Tivrusky_IV-anime-anime_girls.jpg);
-    padding: 10px;
-    margin: 10px;
-    border: violet;
-    display: block;
+/* header */
+header   {
+  background: #222;
+  color: #FFF;
+  padding: 10px 30px;
+  text-align: center;
 }
-.my-class {
-   border: 2px solid rgb(247, 247, 247);
- }
+
+/* logo */
+#logo         {
+  display: inline-block;
+  color: #FFF;
+  text-decoration: none;
+  width: 100%;
+}
+#logo img    {
+  width: 50px;
+  border-radius: 3px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+#logo span   {
+  display: inline-block;
+}
+
+/* styling our footer */
+footer   {
+  background: #222;
+  color: #777;
+  padding: 40px;
+  text-align: center;
+}
+footer img   {
+  display: block;
+  border-radius: 5px;
+  width: 80px;
+  margin: 0 auto 10px;
+}
+
+/* styling our main content */
+.welcome           {
+  min-height: 800px;
+  text-align: center;
+  background-image: url(https://wallpapertag.com/wallpaper/full/5/b/8/536376-new-glitch-wallpapers-1920x1080-hd-1080p.jpg);
+  background-size: cover;
+}
+.welcome-content   {
+  color: #FFF;
+  padding-top: 10px;
+}
+.welcome-content h1   {
+  font-size: 100px;
+  margin: 0;
+}
+.welcome-content p    {
+  font-size: 50px;
+}
+.welcome-content a    {
+  display: inline-block;
+  color: #FFF;
+  border: 3px solid #FFF;
+  background-color: #222;
+  border-radius: 3px;
+  padding: 15px 30px;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 28px;
+  max-width: 90%;
+}
+
+/* basic site sections */
+.site-section   {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.site-section-secondary   {
+  background: #EFEFEF;
+}
+.site-section-inside   {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.section-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Portfolio boxes */
+.portfolio-box   {
+  display: inline-block;
+  width: 33%;
+  padding: 20px 30px;
+}
+.portfolio-box img  {
+  margin-bottom: 12px;
+  width: 80px;
+}
+.portfolio-box h5   {
+  font-size: 20px;
+  color: #999;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+  margin: 0;
+}
