@@ -25,7 +25,7 @@ h2{
   font-style: bold;
   color: white;
   font-size: 18px;
-  background-image: url(https://c.wallhere.com/photos/86/9e/vaporwave_grid-1214341.jpg!d);
+  background-image: url(https://images.hdqwalls.com/download/vaporwave-4k-k3-1920x1080.jpg);
   text-align: center;
   padding: 1px;
   margin: 1px;
@@ -38,6 +38,17 @@ h3{
   text-align: center;
   padding: 1px;
   margin: 1px;
+}
+h4{
+  font-style: bold;
+  color: white;
+  font-size: 18px;
+  background-image: url(https://c.wallhere.com/photos/86/9e/vaporwave_grid-1214341.jpg!d);
+  text-align: center;
+  padding: 0px,1px;
+}
+p {
+  padding: 3px;
 }
 /* header */
 header   {
@@ -130,12 +141,15 @@ footer img   {
 /* Portfolio boxes */
 .portfolio-box   {
   display: inline-block;
-  width: 33%;
-  padding: 20px 30px;
+  width: 30.1%;
+  padding: 10px 10px;
+  margin: auto;
+  text-align: center;
 }
 .portfolio-box img  {
-  margin-bottom: 12px;
+  margin-bottom: auto;
   width: 80px;
+  align-content: center;
 }
 .portfolio-box h5   {
   font-size: 20px;
@@ -143,7 +157,7 @@ footer img   {
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 2px;
-  margin: 0;
+  margin: auto;
 }
 /* Column Format */
 .flex-container {
