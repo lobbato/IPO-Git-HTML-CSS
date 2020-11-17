@@ -6,3 +6,34 @@
  <li><strong> Link to Site on GitHub Pages: </strong> In Project <br> </li>
  <li><strong> Copyright and License Information:</strong> MIT LICENCE <br></li>
  </p>
+ <p>
+         ;M";::;;
+        ,':;: ""'.
+       ,M;. ;MM;;M:
+       ;MMM::MMMMM:
+      ,MMMMM'MMMMM:
+      ;MMMMM MMMMMM
+      MMMMM::MMMMMM:
+      :MM:',;MMMMMM'
+      ':: 'MMMMMMM:
+        '; :MMMMM"
+           ''"""'
+            .
+            M
+            M
+.           M           .
+'M..        M        ,;M'
+ 'MM;.      M       ;MM:
+  :MMM.     M      ;MM:
+  'MMM;     M     :MMM:
+   MMMM.    M     MMMM:
+  :MMMM:    M     MMMM:
+  :MMMM:    M    :MMMM:
+  :MMMMM    M    ;MMMM:
+  'MMMMM;   M   ,MMMMM:
+   :MMMMM.  M   ;MMMMM'
+    :MMMM;  M  :MMMMM"
+     'MMMM  M  ;MMMM"
+-hrr- ':MM  M ,MMM:'
+        "": M :""'
+  </p>
