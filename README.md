@@ -7,33 +7,33 @@
  <li><strong> Copyright and License Information:</strong> MIT LICENCE <br></li>
  </p>
  <p>
-         ;M";::;;
-        ,':;: ""'.
-       ,M;. ;MM;;M:
-       ;MMM::MMMMM:
-      ,MMMMM'MMMMM:
-      ;MMMMM MMMMMM
-      MMMMM::MMMMMM:
-      :MM:',;MMMMMM'
-      ':: 'MMMMMMM:
-        '; :MMMMM"
-           ''"""'
-            .
-            M
-            M
-.           M           .
-'M..        M        ,;M'
- 'MM;.      M       ;MM:
-  :MMM.     M      ;MM:
-  'MMM;     M     :MMM:
-   MMMM.    M     MMMM:
-  :MMMM:    M     MMMM:
-  :MMMM:    M    :MMMM:
-  :MMMMM    M    ;MMMM:
-  'MMMMM;   M   ,MMMMM:
-   :MMMMM.  M   ;MMMMM'
-    :MMMM;  M  :MMMMM"
-     'MMMM  M  ;MMMM"
--hrr- ':MM  M ,MMM:'
-        "": M :""'
+         ;M";::;;<br>
+        ,':;: ""'.<br>
+       ,M;. ;MM;;M:<br>
+       ;MMM::MMMMM:<br>
+      ,MMMMM'MMMMM:<br>
+      ;MMMMM MMMMMM<br>
+      MMMMM::MMMMMM:<br>
+      :MM:',;MMMMMM'<br>
+      ':: 'MMMMMMM:<br>
+        '; :MMMMM"<br>
+           ''"""'<br>
+            .<br>
+            M<br>
+            M<br>
+.           M   <br>        .
+'M..        M        ,;M'<br>
+ 'MM;.      M       ;MM:<br>
+  :MMM.     M      ;MM:<br>
+  'MMM;     M     :MMM:<br>
+   MMMM.    M     MMMM:<br>
+  :MMMM:    M     MMMM:<br>
+  :MMMM:    M    :MMMM:<br>
+  :MMMMM    M    ;MMMM:<br>
+  'MMMMM;   M   ,MMMMM:<br>
+   :MMMMM.  M   ;MMMMM'<br>
+    :MMMM;  M  :MMMMM"<br>
+     'MMMM  M  ;MMMM"<br>
+-hrr- ':MM  M ,MMM:'<br>
+        "": M :""'<br>
   </p>
