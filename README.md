@@ -13,5 +13,3 @@
  
 ![image](https://user-images.githubusercontent.com/72839849/99744723-179f4000-2a8d-11eb-92f5-810bdd23fb07.png)
 
-
-:sparkles:
