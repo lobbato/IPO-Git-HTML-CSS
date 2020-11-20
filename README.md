@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/72839849/99741777-e3c11c00-2a86-11eb-8467-c19d57449913.png)
+
 <ul>
   <li><strong> Author Name:</strong> Emily Lobbato <br></li>
  <li><strong> Project or Program Name: </strong></strong>Independent Projects Overview - Git, HTML and <br></li>
