@@ -10,6 +10,7 @@ body   {
 body     {
   background: #FFF;
   font-family: Arial, Helvetica, sans-serif;
+  max-width: 100%;
 }
 
 h1{
@@ -163,10 +164,11 @@ header   {
 .flex-container {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .flex-left {
-  width: 30%;
+  width: 29%;
   margin: 5px;
   padding: 10px;
   color: rgb(233, 193, 193);
@@ -177,7 +179,7 @@ header   {
 }
 
 .flex-right {
-  width: 70%;
+  width: 69%;
   margin: 5px;
   padding: 10px;
   color: rgb(233, 193, 193);
@@ -193,6 +195,7 @@ footer   {
   color: #777;
   padding: 10px;
   text-align: center;
+  width: 100%;
 }
 
 footer img   {
